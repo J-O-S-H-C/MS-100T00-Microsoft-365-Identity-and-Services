@@ -40,11 +40,11 @@ Holly Spencer is Adatum’s Enterprise Administrator. Since a Microsoft 365 user
 
 	- Username: **Holly** <br/>
 	
-		‎**IMPORTANT:** To the right of the **Username** field is the domain field. It will be prefilled with the **M365xZZZZZZ.onmicrosoft.com** cloud domain (where ZZZZZZ is your tenant ID provided by your lab hosting provider).<br/>
+		‎**IMPORTANT:** To the right of the **Username** field is the domain field. It will be prefilled with the **M365x_____.onmicrosoft.com** cloud domain (where _____ is your tenant ID provided by your lab hosting provider).<br/>
 	
 		After configuring this field, Holly’s username should appear as:<br/>
 
-		**Holly@M365xZZZZZZ.onmicrosoft.com**  
+		**Holly@M365x_____.onmicrosoft.com**  
 	
 	- Password settings: uncheck the **Automatically create a password** option
 
